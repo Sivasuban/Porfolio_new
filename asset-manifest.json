@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.556ca1a0.css",
+    "main.js": "/static/js/main.ace98d0a.js",
+    "static/js/453.e08103a1.chunk.js": "/static/js/453.e08103a1.chunk.js",
+    "static/media/HackerRank_CSS_Certificate.jpg.jpg": "/static/media/HackerRank_CSS_Certificate.jpg.c41b65cd0807c6125795.jpg",
+    "static/media/Suban_Resume_Updated___.pdf": "/static/media/Suban_Resume_Updated___.1c99235faf6cc6cb0af5.pdf",
+    "static/media/Introduction Front-End Development_Certificate.jpg.jpg": "/static/media/Introduction Front-End Development_Certificate.jpg.748005fbf58e8a4c98de.jpg",
+    "static/media/meta_JavaScript.jpg.jpg": "/static/media/meta_JavaScript.jpg.5b250c4e5789dfee23f4.jpg",
+    "static/media/react.jpg.jpg": "/static/media/react.jpg.74895f689183c0dc417f.jpg",
+    "static/media/HTML_certificate.jpg.jpg": "/static/media/HTML_certificate.jpg.102796da63b557eeb3f6.jpg",
+    "static/media/Tech_Foundation_Certificate.jpg.jpg": "/static/media/Tech_Foundation_Certificate.jpg.ab2c3646696d7cf18702.jpg",
+    "static/media/photo1.jpg": "/static/media/photo1.5d7cb0b4cb50ae2c52cc.jpg",
+    "static/media/img3.jpg": "/static/media/img3.380ffafe523872f76061.jpg",
+    "static/media/img2.jpg": "/static/media/img2.297b9e9ca9a193df3a0c.jpg",
+    "index.html": "/index.html",
+    "main.556ca1a0.css.map": "/static/css/main.556ca1a0.css.map",
+    "main.ace98d0a.js.map": "/static/js/main.ace98d0a.js.map",
+    "453.e08103a1.chunk.js.map": "/static/js/453.e08103a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.556ca1a0.css",
+    "static/js/main.ace98d0a.js"
+  ]
+}
